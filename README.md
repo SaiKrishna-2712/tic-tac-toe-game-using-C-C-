@@ -1,4 +1,4 @@
-# tic-tac-toe-game-using-C-C-
+# tic-tac-toe-game-using-C/C++
 In this game, two players alternately put X’s and O’s in compartments of a tic tac toe board and each tries to get a row of three X’s or three O’s before the opponent does.
 The project, "C++ Tic-Tac-Toe Game," is a fun and interactive game that was developed using the C++ programming language.
 The game is designed for two players and is played on the console displayed on the screen.
